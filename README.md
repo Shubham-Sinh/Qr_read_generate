@@ -1,2 +1,3 @@
 # Qr_read_generate
-This resporitory for qr code generator and reader.
+This repository is for a QR code generator and reader.
+In this code, I have used Python and its libraries like NumPy and Pandas.
